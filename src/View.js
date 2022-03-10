@@ -4,12 +4,12 @@ import { h } from 'virtual-dom'
 
 import { } from './Update'
 
-const { } = hh(h)
+const { pre } = hh(h)
 
 /* View functions */
 
 const view = (dispatch, model) => {
-    return div({}, [])
+    return pre(JSON.stringify(model, null, 2))
 }
 
 export default view

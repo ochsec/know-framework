@@ -16,4 +16,4 @@ const update = (msg, model) => {
     return model
 }
 
-export default model
+export default update
