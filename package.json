@@ -10,7 +10,7 @@
   "author": "Chris Ochsenreither",
   "license": "MIT",
   "devDependencies": {
-    "axios": "^0.26.1",
+    "axios": "^1.6.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^8.2.3",
     "babel-preset-env": "^1.7.0",
